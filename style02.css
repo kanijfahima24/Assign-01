@@ -84,7 +84,8 @@ body{
     margin-bottom: 6px;
 }
 .second p{
-    margin-top: 1px;
+    margin-top: 2px;
+    width:80%;
 }
 .ufo-1 h3{
    font-size: 25px;
