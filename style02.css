@@ -261,14 +261,14 @@ body{
    flex-direction: column;
    gap: 2px;
    max-width: 70%;
-   padding: 40px 40px 40px 0px;
+   padding: 40px 40px 40px 15px;
 }
 .sixth #nine .text-cont{
     display: flex;
    flex-direction: column;
    gap: 2px;
    max-width: 70%;
-   padding: 40px 0px 40px 40px;
+   padding: 40px 15px 40px 40px;
 }
 
 .ufo-4{
